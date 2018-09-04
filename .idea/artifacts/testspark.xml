@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="testspark">
+    <output-path>D:/</output-path>
+    <root id="archive" name="testspark.jar">
+      <element id="library" level="project" name="activation-1.1.1" />
+      <element id="library" level="application" name="scala-sdk-2.11.8" />
+      <element id="module-output" name="spark" />
+    </root>
+  </artifact>
+</component>
